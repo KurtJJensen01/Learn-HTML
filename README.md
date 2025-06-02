@@ -2,6 +2,18 @@
 
 This repository contains my code and exercises from the [Codecademy Learn HTML course](https://www.codecademy.com/enrolled/courses/learn-html).
 
+## 📂 Repository Overview
+
+The course is divided into four main sections:
+
+1. **Elements and Structure** (✅ Completed)
+2. **Tables**
+3. **Forms**
+4. **Semantic HTML**
+
+✅ = Completed
+
+I’ll continue adding code as I complete each section of the course!
 
 ## 🚀 About the Course
 
@@ -18,4 +30,4 @@ This repository is my personal learning journey, and I’m using it to practice 
 
 ---
 
-Feel free to explore the code, and if you're learning too, let's connect!
+Feel free to explore the code, and if you're learning too, let’s connect!
