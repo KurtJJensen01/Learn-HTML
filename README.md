@@ -7,7 +7,7 @@ This repository contains my code and exercises from the [Codecademy Learn HTML c
 The course is divided into four main sections:
 
 1. **Elements and Structure** (✅ Completed)
-2. **Tables**
+2. **Tables** (✅ Completed)
 3. **Forms**
 4. **Semantic HTML**
 
