@@ -9,7 +9,7 @@ The course is divided into four main sections:
 1. **Elements and Structure** (✅ Completed)
 2. **Tables** (✅ Completed)
 3. **Forms** (✅ Completed)
-4. **Semantic HTML**
+4. **Semantic HTML** (✅ Completed)
 
 ✅ = Completed
 
